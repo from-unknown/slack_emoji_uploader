@@ -9,7 +9,7 @@
           <string>/bin/bash</string>
           <string>-l</string>
           <string>-c</string>
-	        <string>/PATH_TO_FOLDER/slack_emoji_uploader/mac/slack_emoji_uploader.sh</string>
+            <string>/PATH_TO_FOLDER/slack_emoji_uploader/mac/slack_emoji_uploader.sh</string>
         </array>
         <!-- launchctl loadしたタイミングで実行するか -->
         <key>RunAtLoad</key>
